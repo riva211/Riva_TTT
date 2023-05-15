@@ -1,9 +1,9 @@
 # Netlify Link :- https://rivattt.netlify.app/
 
  Libraries Used:-
- 1.chart : ^0.1.2
- 2.chart.js : ^4.3.0
- 3.papaparse : ^5.4.1
+ 1. chart : ^0.1.2
+ 2. chart.js : ^4.3.0
+ 3. papaparse : ^5.4.1
  
  # Component :- Comps.jsx
  
