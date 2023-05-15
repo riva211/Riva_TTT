@@ -54,8 +54,10 @@ function Comps() {
    words.map((item)=>{
      if(!filters.includes(item))
         {
-               filters.push(item)
+          
+             filters.push(item)
         }
+        return filters;
     })
      let topdata=[]
 
